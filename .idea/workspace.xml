@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95693d18-b9c1-48ff-a1fe-09213f2956a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/Algoritmos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/src/Burbuja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/src/Insercion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/src/Seleccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmos/src/ShellShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BolsaDeEmpleo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BolsaDeEmpleo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BolsaDeEmpleo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BolsaDeEmpleo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BolsaDeEmpleo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BolsaDeEmpleo/BolsaDeEmpleo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BolsaDeEmpleo/src/Aspirante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BolsaDeEmpleo/src/BolsaDeEmpleo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BolsaDeEmpleo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Diario online/.idea/Diario online.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FiltroPersonas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/src/models/Alumno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/src/models/Docente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/src/models/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/src/models/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partidos/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partidos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partidos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partidos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partidos/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partidos/Partidos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partidos/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Partidos/src/Partido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LOG/PROYECTOS/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LOG/PROYECTOS/Modulo 1/consola_calculo_calorias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LOG/PROYECTOS/Modulo 1/funciones.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LOG/PROYECTOS/Modulo 2/consola_peliculas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LOG/PROYECTOS/Modulo 2/modulo_peliculas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LOG/PROYECTOS/Modulo 3/billboard.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LOG/PROYECTOS/Modulo 3/billboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LOG/PROYECTOS/Modulo 3/consola_billboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewAngel/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewAngel/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screenmatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../screenmatch/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gZssAl1JoaCKZKIIpXsY9jtmu8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/Desktop/hyperbloom",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws",
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95693d18-b9c1-48ff-a1fe-09213f2956a3" name="Changes" comment="" />
+      <created>1715916640184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715916640184</updated>
+      <workItem from="1715916641310" duration="294000" />
+      <workItem from="1716148842712" duration="1714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
